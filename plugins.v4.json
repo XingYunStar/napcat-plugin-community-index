@@ -460,11 +460,11 @@
     {
       "id": "napcat-plugin-brushing",
       "name": "官机互刷插件",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "官机互刷DAU插件，自动与在线官机互刷提升DAU",
       "author": "蛙蛙",
       "homepage": "https://github.com/wozhendefuleaaa/napcat-plugin-brushing",
-      "downloadUrl": "https://github.com/wozhendefuleaaa/napcat-plugin-brushing/releases/download/v1.0.1/napcat-plugin-brushing.zip",
+      "downloadUrl": "https://github.com/wozhendefuleaaa/napcat-plugin-brushing/releases/download/v1.0.2/napcat-plugin-brushing.zip",
       "tags": [
         "工具",
         "自动化"
@@ -481,6 +481,19 @@
       "downloadUrl": "https://github.com/xiowo/napcat-plugin-update-checker/releases/download/v1.0.1/napcat-plugin-update-checker.zip",
       "tags": [
         "工具",
+        "管理"
+      ],
+      "minVersion": "4.14.0"
+    },
+    {
+      "id": "napcat-plugin-spam-checker",
+      "name": "群聊刷屏检测",
+      "version": "1.0.0",
+      "description": "群聊刷屏检测插件 - 检测重复消息、消息频率、相似消息等刷屏行为",
+      "author": "NapCat",
+      "homepage": "https://github.com/wozhendefuleaaa/napcat-plugin-spam-checker",
+      "downloadUrl": "https://github.com/wozhendefuleaaa/napcat-plugin-spam-checker/releases/download/v1.0.0/napcat-plugin-spam-checker.zip",
+      "tags": [
         "管理"
       ],
       "minVersion": "4.14.0"
