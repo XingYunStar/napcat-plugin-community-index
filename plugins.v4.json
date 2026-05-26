@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updateTime": "2026-04-30T17:53:22Z",
+  "updateTime": "2026-05-26T16:52:23Z",
   "statsUrl": "https://raw.githubusercontent.com/HolyFoxTeam/napcat-plugin-community-index/refs/heads/store/plugin-release-data.json",
   "plugins": [
     {
@@ -528,8 +528,22 @@
       ],
       "minVersion": "4.14.0"
     },
+     {
+      "id": "napcat-plugin-teamspeakLink",
+      "name": "TeamSpeak3 Link",
+      "version": "1.0.8",
+      "description": "连接 QQ 机器人与 TeamSpeak3 语音服务器，支持在线人数查询和用户通知",
+      "author": "jacksixth",
+      "homepage": "https://github.com/jacksixth/napcat-plugin-teamspeakLink",
+      "downloadUrl": "https://github.com/jacksixth/napcat-plugin-teamspeakLink/releases/download/v1.0.8/napcat-plugin-teamspeakLink.zip",
+      "tags": [
+        "工具",
+        "语音"
+      ],
+      "minVersion": "4.14.0"
+    },
     {
-      "id": "napcat-plugin-mcRcon",
+      "id": "napcat-plugin-mcrcon",
       "name": "Minecraft RCON 管理",
       "version": "1.0.1",
       "description": "通过 QQ 机器人管理 Minecraft 服务器，支持状态查询、RCON 命令执行",
@@ -539,8 +553,6 @@
       "tags": [
         "游戏",
         "工具"
-      ],
-      "minVersion": "4.14.0"
-    }
+     }
   ]
 }
