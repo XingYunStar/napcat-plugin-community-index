@@ -528,7 +528,7 @@
       ],
       "minVersion": "4.14.0"
     },
-    {
+     {
       "id": "napcat-plugin-teamspeakLink",
       "name": "TeamSpeak3 Link",
       "version": "1.0.8",
@@ -541,6 +541,18 @@
         "语音"
       ],
       "minVersion": "4.14.0"
-    }
+    },
+    {
+      "id": "napcat-plugin-mcrcon",
+      "name": "Minecraft RCON 管理",
+      "version": "1.0.1",
+      "description": "通过 QQ 机器人管理 Minecraft 服务器，支持状态查询、RCON 命令执行",
+      "author": "jacksixth",
+      "homepage": "https://github.com/jacksixth/napcat-plugin-mcRcon",
+      "downloadUrl": "https://github.com/jacksixth/napcat-plugin-mcRcon/releases/download/v1.0.1/napcat-plugin-mcRcon.zip",
+      "tags": [
+        "游戏",
+        "工具"
+     }
   ]
 }
