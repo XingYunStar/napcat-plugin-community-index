@@ -529,7 +529,7 @@
       "minVersion": "4.14.0"
     },
     {
-      "id": "napcat-plugin-teamspeakLink",
+      "id": "napcat-plugin-teamspeaklink",
       "name": "TeamSpeak3 Link",
       "version": "1.0.8",
       "description": "连接 QQ 机器人与 TeamSpeak3 语音服务器，支持在线人数查询和用户通知",
