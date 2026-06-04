@@ -555,6 +555,19 @@
         "工具"
       ],
       "minVersion": "4.14.0"
+    },
+    {
+      "id": "napcat-plugin-ai-chat-pro",
+      "name": "AI聊天",
+      "version": "1.0.0",
+      "description": "QQ机器人AI聊天插件，支持文本对话与视觉识别。唤醒词/@触发、多轮对话记忆（可配置轮数）、黑白名单访问控制、分段回复、引用回复。兼容OpenAI格式API，支持DeepSeek/SiliconFlow等模型，自动获取模型列表，视觉模型优先处理图片消息。",
+      "author": "星陨",
+      "homepage": "https://github.com/XingYunStar/napcat-plugin-ai-chat-pro",
+      "downloadUrl": "https://github.com/XingYunStar/napcat-plugin-ai-chat-pro/releases/download/v1.0.0/napcat-plugin-ai-chat-pro.zip",
+      "tags": [
+        "工具"
+      ],
+      "minVersion": "4.14.0"
     }
   ]
 }
