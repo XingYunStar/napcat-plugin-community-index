@@ -568,6 +568,19 @@
         "工具"
       ],
       "minVersion": "4.14.0"
+    },
+    {
+      "id": "napcat-plugin-mute-list",
+      "name": "禁言列表",
+      "version": "1.0.0",
+      "description": "NapCat 禁言列表插件，自动禁言指定用户，支持群白名单/黑名单过滤，可自定义禁言时长（默认120秒）",
+      "author": "星陨",
+      "homepage": "https://github.com/XingYunStar/napcat-plugin-mute-list",
+      "downloadUrl": "https://github.com/XingYunStar/napcat-plugin-mute-list/releases/download/v1.0.0/napcat-plugin-mute-list.zip",
+      "tags": [
+        "工具"
+      ],
+      "minVersion": "4.14.0"
     }
   ]
 }
